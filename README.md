@@ -7,4 +7,5 @@ This is a simple shopping list "todo" app using HTML/CSS/JavaScript with some DO
   * When entering data into the text field, the key code is targeted for the "enter" key so if you hit it, it will submit it to the list instead of clicking on the button.  
   
   Site:  
+  https://justin2172021.github.io/shopping-list-to-do/
   
