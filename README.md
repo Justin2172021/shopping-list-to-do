@@ -1,5 +1,5 @@
 # shopping-list-to-do
-This is a simple shopping list "todo" app.  
+This is a simple shopping list "todo" app using HTML/CSS/JavaScript with some DOM Manipulation to make the app interactive.  
   
   Features:  
   * Click listener on the Unordered List (UL) tag that performs a "text strikethrough" on any child list item (LI) that was clicked.  
